@@ -6,7 +6,7 @@ Microserviços: Checkout, Payment.
 
 Checkout: tem a responsabilidade de guardar as informações dos cartões, os dados dos usuários que estão fazendo as compras.
 
-Payment: tem a responsabilidade de cobra das administradoras do cartões dos usuários que fizeram as compras.
+Payment: tem a responsabilidade de cobra das administradoras dos cartões dos usuários que fizeram as compras.
 
 Foi desenvolvidos e abordados os seguintes tópicos:
 
