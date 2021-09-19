@@ -1,17 +1,18 @@
 <h2>Projeto com Spring Boot - Microserviço de Ecommerce</h2>
 
-Neste projeto foi desenvolvido dois microserviço com o Spring Boot.
+Neste projeto foi desenvolvido dois microserviços com o Spring Boot.
 
 Microserviços: Checkout, Payment.
 
 Checkout: tem a responsabilidade de guardar as informações dos cartões, os dados dos usuários que estão fazendo as compras.
-Payment: tem a responsabilidade de cobra da administradora do cartão do usuário que fez a compra.
+
+Payment: tem a responsabilidade de cobra das administradoras do cartões dos usuários que fizeram as compras.
 
 Foi desenvolvidos e abordados os seguintes tópicos:
 
 * Setup inicial de projeto com o Spring Boot Initialzr 
 * Banco de dados PostgreSQL
-* String Boot
+* Spring Boot
 * Kafka
 * Avro 
 * Schema Registry
@@ -31,7 +32,7 @@ Abaixo, seguem links bem bacanas, sobre tópicos abordados:
 * [Site oficial do Spring](https://spring.io/)
 * [Site oficial do Spring Initialzr, para setup do projeto](https://start.spring.io/)
 
-repositórios: https://github.com/carlaospa/ecommerce-checkout.git
-              https://github.com/carlaospa/ecommerce-payment.git
+repositórios: 
 
-
+   * https://github.com/carlaospa/ecommerce-checkout.git
+   * https://github.com/carlaospa/ecommerce-payment.git
